@@ -1,0 +1,9 @@
+body,
+textarea {
+    font-size: 18px;
+}
+
+textarea {
+    width: 100%;
+    overflow-y: hidden;
+}
